@@ -1,2 +1,2 @@
-# Irish-real-estate-house-prodictions
+# Irish-real-estate-house-predictions
 Predictions
